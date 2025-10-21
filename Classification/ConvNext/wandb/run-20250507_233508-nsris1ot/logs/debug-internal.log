@@ -1,0 +1,20 @@
+{"time":"2025-05-07T23:35:08.2338887+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"wandb\\run-20250507_233508-nsris1ot\\logs\\debug-core.log"}
+{"time":"2025-05-07T23:35:08.7509374+02:00","level":"INFO","msg":"created new stream","id":"nsris1ot"}
+{"time":"2025-05-07T23:35:08.7509374+02:00","level":"INFO","msg":"stream: started","id":"nsris1ot"}
+{"time":"2025-05-07T23:35:08.7509374+02:00","level":"INFO","msg":"handler: started","stream_id":"nsris1ot"}
+{"time":"2025-05-07T23:35:08.7509374+02:00","level":"INFO","msg":"sender: started","stream_id":"nsris1ot"}
+{"time":"2025-05-07T23:35:08.7509374+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"nsris1ot"}
+{"time":"2025-05-07T23:35:09.2152023+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-07T23:47:59.6309423+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-07T23:48:01.3241656+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-07T23:48:01.3241656+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-07T23:48:02.3351791+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-nsris1ot","runtime_seconds":2.7157429,"subtasks":[{"desc":"model.ckpt","runtime_seconds":1.9873845,"progress":"2.9MB/318.6MB"}]},{"desc":"uploading output.log","runtime_seconds":0.4377283},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4377283,"progress":"388B/388B"},{"desc":"uploading config.yaml","runtime_seconds":0.1604517,"progress":"1.9KB/1.9KB"}],"total_operations":4}}
+{"time":"2025-05-07T23:49:02.9431969+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-nsris1ot","runtime_seconds":63.3237607,"subtasks":[{"desc":"model.ckpt","runtime_seconds":62.5954023,"progress":"105.3MB/318.6MB"}]}],"total_operations":1}}
+{"time":"2025-05-07T23:50:03.4480397+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-nsris1ot","runtime_seconds":123.8286035,"subtasks":[{"desc":"model.ckpt","runtime_seconds":123.1002451,"progress":"208.1MB/318.6MB"}]}],"total_operations":1}}
+{"time":"2025-05-07T23:51:04.0250053+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-nsris1ot","runtime_seconds":184.4055691,"subtasks":[{"desc":"model.ckpt","runtime_seconds":183.6772107,"progress":"311.2MB/318.6MB"}]}],"total_operations":1}}
+{"time":"2025-05-07T23:51:09.9149519+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-07T23:51:10.3226157+02:00","level":"INFO","msg":"stream: closing","id":"nsris1ot"}
+{"time":"2025-05-07T23:51:10.3226157+02:00","level":"INFO","msg":"handler: closed","stream_id":"nsris1ot"}
+{"time":"2025-05-07T23:51:10.3226157+02:00","level":"INFO","msg":"sender: closed","stream_id":"nsris1ot"}
+{"time":"2025-05-07T23:51:10.3226157+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"nsris1ot"}
+{"time":"2025-05-07T23:51:10.3226157+02:00","level":"INFO","msg":"stream: closed","id":"nsris1ot"}

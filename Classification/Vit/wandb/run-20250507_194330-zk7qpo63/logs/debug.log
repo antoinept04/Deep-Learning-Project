@@ -1,0 +1,37 @@
+2025-05-07 19:43:30,772 INFO    MainThread:4192 [wandb_setup.py:_flush():68] Current SDK version is 0.19.10
+2025-05-07 19:43:30,773 INFO    MainThread:4192 [wandb_setup.py:_flush():68] Configure stats pid to 4192
+2025-05-07 19:43:30,773 INFO    MainThread:4192 [wandb_setup.py:_flush():68] Loading settings from C:\Users\Sacha\.config\wandb\settings
+2025-05-07 19:43:30,773 INFO    MainThread:4192 [wandb_setup.py:_flush():68] Loading settings from c:\Users\Sacha\Desktop\Mini-Projet\Classification\Vit\wandb\settings
+2025-05-07 19:43:30,773 INFO    MainThread:4192 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-05-07 19:43:30,773 INFO    MainThread:4192 [wandb_init.py:setup_run_log_directory():724] Logging user logs to .\wandb\run-20250507_194330-zk7qpo63\logs\debug.log
+2025-05-07 19:43:30,773 INFO    MainThread:4192 [wandb_init.py:setup_run_log_directory():725] Logging internal logs to .\wandb\run-20250507_194330-zk7qpo63\logs\debug-internal.log
+2025-05-07 19:43:30,773 INFO    MainThread:4192 [wandb_init.py:monkeypatch_ipython():643] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x00000180F19C4140>
+2025-05-07 19:43:30,773 INFO    MainThread:4192 [wandb_init.py:init():852] calling init triggers
+2025-05-07 19:43:30,774 INFO    MainThread:4192 [wandb_init.py:init():857] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-05-07 19:43:30,774 INFO    MainThread:4192 [wandb_init.py:init():893] starting backend
+2025-05-07 19:43:30,774 INFO    MainThread:4192 [wandb_init.py:init():897] sending inform_init request
+2025-05-07 19:43:30,866 INFO    MainThread:4192 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-05-07 19:43:30,867 INFO    MainThread:4192 [wandb_init.py:init():907] backend started and connected
+2025-05-07 19:43:30,868 INFO    MainThread:4192 [wandb_run.py:_label_probe_notebook():1369] probe notebook
+2025-05-07 19:43:30,885 INFO    MainThread:4192 [wandb_run.py:_label_probe_notebook():1379] Unable to probe notebook: 'charmap' codec can't decode byte 0x8f in position 178531: character maps to <undefined>
+2025-05-07 19:43:30,885 INFO    MainThread:4192 [wandb_init.py:init():1002] updated telemetry
+2025-05-07 19:43:30,886 INFO    MainThread:4192 [wandb_init.py:init():1026] communicating run to backend with 90.0 second timeout
+2025-05-07 19:43:31,883 INFO    MainThread:4192 [wandb_init.py:init():1101] starting run threads in backend
+2025-05-07 19:43:32,070 INFO    MainThread:4192 [wandb_run.py:_console_start():2566] atexit reg
+2025-05-07 19:43:32,070 INFO    MainThread:4192 [wandb_run.py:_redirect():2414] redirect: wrap_raw
+2025-05-07 19:43:32,070 INFO    MainThread:4192 [wandb_run.py:_redirect():2483] Wrapping output streams.
+2025-05-07 19:43:32,070 INFO    MainThread:4192 [wandb_run.py:_redirect():2506] Redirects installed.
+2025-05-07 19:43:32,093 INFO    MainThread:4192 [wandb_init.py:init():1147] run started, returning control to user process
+2025-05-07 20:03:28,841 INFO    MainThread:4192 [wandb_init.py:_post_run_cell_hook():613] [no run ID] resuming backend
+2025-05-07 20:05:23,871 INFO    MainThread:4192 [jupyter.py:save_ipynb():401] [no run ID] not saving jupyter notebook
+2025-05-07 20:05:23,871 INFO    MainThread:4192 [wandb_init.py:_pre_run_cell_hook():602] [no run ID] pausing backend
+2025-05-07 20:05:27,034 INFO    MainThread:4192 [wandb_run.py:_finish():2314] finishing run 231418-universit-de-mons/MINI-Projet/zk7qpo63
+2025-05-07 20:05:27,035 INFO    MainThread:4192 [jupyter.py:save_ipynb():401] not saving jupyter notebook
+2025-05-07 20:05:27,036 INFO    MainThread:4192 [wandb_init.py:_jupyter_teardown():628] cleaning up jupyter logic
+2025-05-07 20:05:27,036 INFO    MainThread:4192 [wandb_run.py:_atexit_cleanup():2531] got exitcode: 0
+2025-05-07 20:05:27,036 INFO    MainThread:4192 [wandb_run.py:_restore():2513] restore
+2025-05-07 20:05:27,036 INFO    MainThread:4192 [wandb_run.py:_restore():2519] restore done
+2025-05-07 20:15:15,795 INFO    MainThread:4192 [wandb_run.py:_footer_history_summary_info():4160] rendering history
+2025-05-07 20:15:15,795 INFO    MainThread:4192 [wandb_run.py:_footer_history_summary_info():4192] rendering summary
+2025-05-07 20:15:15,796 INFO    MainThread:4192 [wandb_run.py:_footer_sync_info():4121] logging synced files

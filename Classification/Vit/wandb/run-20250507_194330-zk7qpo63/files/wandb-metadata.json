@@ -1,0 +1,38 @@
+{
+  "os": "Windows-11-10.0.26100-SP0",
+  "python": "CPython 3.12.10",
+  "startedAt": "2025-05-07T17:43:30.867104Z",
+  "program": "c:\\Users\\Sacha\\Desktop\\Mini-Projet\\Classification\\Vit\\Project_Vit.ipynb",
+  "codePath": "Project_Vit.ipynb",
+  "email": "231418@umons.ac.be",
+  "root": ".",
+  "host": "DESKTOP-812NG00",
+  "executable": "C:\\Users\\Sacha\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\python.exe",
+  "codePathLocal": "Project_Vit.ipynb",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "gpu": "NVIDIA GeForce RTX 4060 Ti",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "499178795008",
+      "used": "451658055680"
+    }
+  },
+  "memory": {
+    "total": "17099558912"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 16
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 4060 Ti",
+      "memoryTotal": "17175674880",
+      "cudaCores": 4352,
+      "architecture": "Ada"
+    }
+  ],
+  "cudaVersion": "12.9"
+}

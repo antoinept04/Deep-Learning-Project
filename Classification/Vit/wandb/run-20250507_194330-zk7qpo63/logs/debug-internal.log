@@ -1,0 +1,26 @@
+{"time":"2025-05-07T19:43:30.8696501+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"wandb\\run-20250507_194330-zk7qpo63\\logs\\debug-core.log"}
+{"time":"2025-05-07T19:43:31.4339482+02:00","level":"INFO","msg":"created new stream","id":"zk7qpo63"}
+{"time":"2025-05-07T19:43:31.4339482+02:00","level":"INFO","msg":"stream: started","id":"zk7qpo63"}
+{"time":"2025-05-07T19:43:31.4339482+02:00","level":"INFO","msg":"handler: started","stream_id":"zk7qpo63"}
+{"time":"2025-05-07T19:43:31.4339482+02:00","level":"INFO","msg":"sender: started","stream_id":"zk7qpo63"}
+{"time":"2025-05-07T19:43:31.4339482+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"zk7qpo63"}
+{"time":"2025-05-07T19:43:31.8867787+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-07T20:05:23.8724358+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-07T20:05:27.0376066+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-07T20:05:27.0376066+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-07T20:05:28.0464344+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-zk7qpo63","runtime_seconds":119.2068732,"subtasks":[{"desc":"model.ckpt","runtime_seconds":118.4323251,"progress":"165.5MB/982.1MB"}]},{"desc":"updating run config","runtime_seconds":0.1366899}],"total_operations":2}}
+{"time":"2025-05-07T20:06:28.6157135+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-zk7qpo63","runtime_seconds":179.7761523,"subtasks":[{"desc":"model.ckpt","runtime_seconds":179.0016042,"progress":"252.4MB/982.1MB"}]}],"total_operations":1}}
+{"time":"2025-05-07T20:07:29.3432988+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-zk7qpo63","runtime_seconds":240.5037376,"subtasks":[{"desc":"model.ckpt","runtime_seconds":239.7291895,"progress":"339.8MB/982.1MB"}]}],"total_operations":1}}
+{"time":"2025-05-07T20:08:29.9440963+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-zk7qpo63","runtime_seconds":301.1045351,"subtasks":[{"desc":"model.ckpt","runtime_seconds":300.329987,"progress":"424.3MB/982.1MB"}]}],"total_operations":1}}
+{"time":"2025-05-07T20:09:30.4608927+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-zk7qpo63","runtime_seconds":361.6213315,"subtasks":[{"desc":"model.ckpt","runtime_seconds":360.8467834,"progress":"508.5MB/982.1MB"}]}],"total_operations":1}}
+{"time":"2025-05-07T20:10:31.0548496+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-zk7qpo63","runtime_seconds":422.2152884,"subtasks":[{"desc":"model.ckpt","runtime_seconds":421.4407403,"progress":"588.7MB/982.1MB"}]}],"total_operations":1}}
+{"time":"2025-05-07T20:11:31.6331645+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-zk7qpo63","runtime_seconds":482.7936033,"subtasks":[{"desc":"model.ckpt","runtime_seconds":482.0190552,"progress":"674.7MB/982.1MB"}]}],"total_operations":1}}
+{"time":"2025-05-07T20:12:32.2862846+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-zk7qpo63","runtime_seconds":543.4467234,"subtasks":[{"desc":"model.ckpt","runtime_seconds":542.6721753,"progress":"760.6MB/982.1MB"}]}],"total_operations":1}}
+{"time":"2025-05-07T20:13:32.8783027+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-zk7qpo63","runtime_seconds":604.0387415,"subtasks":[{"desc":"model.ckpt","runtime_seconds":603.2641934,"progress":"847.2MB/982.1MB"}]},{"desc":"uploading data","runtime_seconds":0.082615}],"total_operations":2}}
+{"time":"2025-05-07T20:14:33.4866744+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-zk7qpo63","runtime_seconds":664.6471132,"subtasks":[{"desc":"model.ckpt","runtime_seconds":663.8725651,"progress":"930.4MB/982.1MB"}]},{"desc":"uploading data","runtime_seconds":0.69032}],"total_operations":2}}
+{"time":"2025-05-07T20:15:15.4478028+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-07T20:15:15.7993334+02:00","level":"INFO","msg":"stream: closing","id":"zk7qpo63"}
+{"time":"2025-05-07T20:15:15.7993334+02:00","level":"INFO","msg":"handler: closed","stream_id":"zk7qpo63"}
+{"time":"2025-05-07T20:15:15.7993334+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"zk7qpo63"}
+{"time":"2025-05-07T20:15:15.7993334+02:00","level":"INFO","msg":"sender: closed","stream_id":"zk7qpo63"}
+{"time":"2025-05-07T20:15:15.7993334+02:00","level":"INFO","msg":"stream: closed","id":"zk7qpo63"}
