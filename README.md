@@ -4,11 +4,11 @@ Railway Visual Analysis: Deep learning project for our third-year course. We imp
 
 We have some videos demonstrationg the efficacity of our models 
 
-Detection :
-  First video : https://youtu.be/_WFBc3QJnho
-  Second video : https://youtu.be/I7n0UWqSndc
-  Third video : https://youtu.be/oB57XCAA4mw
-
-Segmentation :
-  First video : https://youtu.be/APRHlaia_pQ
-  Second video : https://youtu.be/mnfOmhG1lyo
+Detection :  
+  First video : https://youtu.be/_WFBc3QJnho  
+  Second video : https://youtu.be/I7n0UWqSndc  
+  Third video : https://youtu.be/oB57XCAA4mw  
+  
+Segmentation :  
+  First video : https://youtu.be/APRHlaia_pQ  
+  Second video : https://youtu.be/mnfOmhG1lyo  
